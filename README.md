@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/bkMTkeb.png" width="100" height="100">
 
 <h1 style="color:#e09954;">Hi there, I'm Ryan 👋</h1>
-<h5>Check out my <a href="https://emberglo.github.io/" target="_blank">portfolio</a>!</h5>
+<h5>Check out my <a href="https://emberglo.github.io/">portfolio</a>!</h5>
 
 🌱 I’m currently learning:<br>
     - Full-Stack Web Development with BoiseCodeWorks<br>
