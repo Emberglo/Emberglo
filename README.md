@@ -1,6 +1,6 @@
-### Hi there, I'm Ryan 👋
+<img src="https://i.imgur.com/bkMTkeb.png" width="100" height="100">
 
-<img src="https://i.imgur.com/bkMTkeb.png" style="width: 100px; height: 100px;">
+<h1 style="color:#e09954;">Hi there, I'm Ryan 👋</h1>
 
 🌱 I’m currently learning:<br>
     - Full-Stack Web Development with BoiseCodeWorks<br>
