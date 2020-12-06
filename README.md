@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="bkMTkeb"><a href="https://imgur.com/bkMTkeb">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/bkMTkeb.png">
 
 🌱 I’m currently learning:<br>
     - Full-Stack Web Development with BoiseCodeWorks<br>
