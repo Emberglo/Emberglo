@@ -8,7 +8,7 @@
    Ever since I was a child, I loved taking things apart to figure out how they worked. I still do this as an adult, but I have gotten a little better about putting them          back together again! This natural creativity and curiosity both lend themselves to software development. My primary interest as a developer is creating beautiful and            functional user experiences.
 </p>
 
-<h5>Check out my <a href="https://emberglo.github.io/">portfolio</a>!</h5>
+<h3>Check out my <a href="https://emberglo.github.io/">portfolio</a>!</h3>
 
 🌱 I’m currently learning:<br>
     - Full-Stack Web Development with BoiseCodeWorks<br>
